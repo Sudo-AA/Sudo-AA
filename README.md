@@ -1,74 +1,81 @@
-# 🛡️ Sudo-AA — The Architect of Systems, Devourer of Bugs 🧠💻🔥
+# 🛡️ Sudo-AA — Architect of Systems | Devourer of Bugs
 
-> *“Born of logic. Forged in flame. Feared in every deployment zone.”*
-
-![SUDO-AA-BANNER](https://github.com/user-attachments/assets/6a7fed07-9bcc-401d-960b-c1aa61751adc)
-
-## 🧙 Character Class  
-**Title:** Architect of Systems  
-**Role:** Full-Stack Spellcaster / Data Sorcerer  
-**Race:** Human (Possibly cursed by the Legacy Code God)  
-**Level:** 99  
-**Guild:** House of Refactors
+> *“Born of logic. Forged in flame. Feared in every deployment zone.”*  
+> _Architect of Systems. Full-Stack Spellcaster. Guardian of Production._
 
 ---
 
-## ⚔️ Equipped Skills
+## 👨‍💻 About Me
 
-| Skill                          | Element   | Mastery     |
-|-------------------------------|-----------|-------------|
-| Dynamic SQL Incantation       | 🌀 Arcane  | MAX         |
-| Stored Procedure Alchemy      | 🔥 Fire    | MAX         |
-| Bug Extermination             | ☠️ Death   | MAX         |
-| Data Pipeline Summoning       | 🌊 Water   | Expert      |
-| React Interface Enchantments  | ✨ Light   | Advanced    |
-| Server Optimization Rituals   | ⛰️ Earth   | Expert      |
+I am **Sudo-AA**, a seasoned **System Developer** who designs, builds, and optimizes scalable systems across the full stack — from **SQL Server sorcery** to **React UI enchantments**.  
 
----
+When code fails, I don’t patch it.  
+I **purge** it.  
 
-## 🧾 Character Traits
-
-- 🩸 Blood-bound to version control  
-- ⛓️ Immune to scope creep  
-- ⚙️ Able to deploy during production hours *(legend says… without fear)*
+I’ve conquered legacy systems, slain production bugs, and deployed during business hours without rollback.  
+Currently leveling up in the **House of Refactors**.
 
 ---
 
-## 🧟 Enemy Types
+## ⚙️ Technical Arsenal
 
-- 🪲 Peasant Bugs  
-- 🔀 Race Conditions  
-- 🧱 Deadlocks  
-- 🧠 PMs with shifting requirements  
+**Languages & Frameworks**
+> Fluent in the syntax of mortals and machines alike.
 
----
-
-## 🗺️ Quests & Conquests
-
-- [x] Conquered legacy systems without rollback  
-- [x] Slain critical bug with zero downtime  
-- [x] Out-coded an entire agile team on a Friday  
-
----
-
-## 🦴 Final Words
-
-> *"I don’t patch. I purge."*  
-> *"You shall die by my hands, peasant bugs."*
+| Category | Stack |
+|-----------|-------|
+| 🧩 **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Bootstrap |
+| ⚙️ **Backend** | ASP.NET Core, Node.js, Express.js |
+| 🧙‍♂️ **Database** | SQL Server, MySQL, SQLite |
+| 🧾 **Data & Logic** | Dynamic SQL, Stored Procedures, Query Optimization |
+| 🧰 **DevOps** | Git, Gitea, IIS, Ubuntu, Docker |
+| 🌍 **Other Skills** | JSON APIs, Excel/CSV automation, File Management Systems |
 
 ---
 
-🧠 My mind compiles reality.  
-💻 My fingers summon logic from the void.  
-🪲 Your errors are beneath me.  
-🗡️ I don’t fix bugs. I execute them.  
-🔥 I don’t deploy code. I unleash consequences.  
+## 🧭 Experience Timeline
 
-👣 Step carefully in these repos... for every line is a landmine.
+| Role | Focus | Tools / Tech | Duration |
+|------|--------|--------------|-----------|
+| 🏗️ **System Developer** | Full-stack development, data optimization | ASP.NET Core, SQL Server, JS | 2020 — Present |
+| ⚙️ **Backend Alchemist** | Stored procs, dynamic SQL logic, ETL scripts | T-SQL, C#, SSMS | 2017 — 2020 |
+| 🧠 **Apprentice of Systems** | Web foundations & debugging rituals | PHP, HTML, JS | 2014 — 2017 |
+
+> *Over a decade of building, breaking, and rebuilding systems that refuse to die.*
 
 ---
 
-## 🧰 Signature Block (for `.bashrc`, commits, or banners)
+## 📊 GitHub Stats & Graphs
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sudo-AA&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-AA&layout=compact&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sudo-AA&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+## 🏆 Legendary Feats
+
+- 🩸 **Tamed** a legacy data pipeline into modern SQL wizardry  
+- ⚔️ **Refactored** entire web modules mid-deployment — *without downtime*  
+- 🧱 **Neutralized** deadlocks, race conditions, and rogue transactions  
+- 🔥 **Architected** a full-stack POS & visitor management platform with offline sync  
+
+---
+
+## 💬 Philosophy
+
+> “I don’t deploy code — I unleash consequences.”  
+> “I don’t fix bugs — I execute them.”  
+> “Every commit is a spell, every rollback a curse.”
+
+---
+
+## 🧰 Signature Block
 
 ```bash
 🛡️ Sudo-AA — Architect of Systems | Devourer of Bugs
@@ -79,10 +86,3 @@
 🔥 I don't deploy code. I unleash consequences.
 💀 I don’t patch. I purge.
 🧠 Mind compiled. Reality interpreted.
-```
-
----
-
-## 🧙‍♂️ Add `Sudo-AA` to your party, or perish in spaghetti code.
-
-🪓 May your `merge conflicts` be few and your `unit tests` be critical hits.
