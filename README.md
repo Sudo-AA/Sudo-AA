@@ -45,15 +45,6 @@ Currently leveling up in the **House of Refactors**.
 
 ---
 
-## 📊 GitHub Stats & Graphs
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudo-AA&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-</p>
-
-
----
-
 ## 🏆 Legendary Feats
 
 - 🩸 **Tamed** a legacy data pipeline into modern SQL wizardry  
