@@ -26,9 +26,9 @@ Currently leveling up in the **House of Refactors**.
 |-----------|-------|
 | 🧩 **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, Bootstrap |
 | ⚙️ **Backend** | ASP.NET Core, Node.js, Express.js |
-| 🧙‍♂️ **Database** | SQL Server, MySQL, SQLite |
+| 🧙‍♂️ **Database** | SQL Server, MySQL, SQLite, PostgreSQL |
 | 🧾 **Data & Logic** | Dynamic SQL, Stored Procedures, Query Optimization |
-| 🧰 **DevOps** | Git, Gitea, IIS, Ubuntu, Docker |
+| 🧰 **DevOps** | Git, Gitea, IIS, Ubuntu, Docker, Grafana, Prometheus |
 | 🌍 **Other Skills** | JSON APIs, Excel/CSV automation, File Management Systems |
 
 ---
