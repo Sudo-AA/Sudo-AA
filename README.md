@@ -1,190 +1,309 @@
 
+<!--
+  SUDO-AA | THE ARCHITECT OF SYSTEMS
+  Theme: Norse mythology / God of War inspired
+  Replace YOUR_GITHUB_USERNAME with your actual GitHub username.
+-->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&text=SUDO-AA&fontSize=76&color=0:000000,50:5c0000,100:ff1a1a&stroke=ff3030&strokeWidth=2&fontColor=ffffff&animation=fadeIn&desc=THE%20SYSTEM%20IS%20MY%20PLAYGROUND&descSize=15&descAlignY=75"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,25:190606,55:650909,80:260505,100:050505&text=SUDO-AA&fontSize=82&fontColor=F2E8DC&fontAlignY=38&desc=ARCHITECT%20OF%20SYSTEMS%20%E2%80%A2%20DEVOURER%20OF%20BUGS&descSize=14&descColor=D5A6A0&descAlignY=61&animation=fadeIn&stroke=8B1A1A&strokeWidth=1"/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=1800&pause=500&color=FF3030&center=true&vCenter=true&repeat=true&width=700&height=55&lines=%5B+ROOT+ACCESS+GRANTED+%5D;ARCHITECT+OF+SYSTEMS+%E2%80%A2+DEVOURER+OF+BUGS;DATABASES+FEAR+MY+QUERIES;LEGACY+CODE+IS+MY+BATTLEFIELD;COMPILE.+DEPLOY.+DOMINATE.;%3E+ALL+SYSTEMS+OPERATIONAL_"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=700&color=C62828&center=true&vCenter=true&width=750&height=60&lines=%E1%9B%9F+AWAKEN%2C+ARCHITECT+OF+SYSTEMS;%E2%9A%94+MASTER+OF+SQL+SERVER+%26+T-SQL;%E2%9A%99+FORGED+IN+C%23+AND+.NET;%E1%9F%B1+GEMINI+%7C+CHATGPT+%7C+DEEPSEEK;%E2%9A%A1+LET+THE+BUGS+FACE+JUDGMENT;%3E+SYSTEMS+ONLINE._"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/IDENTITY-SUDO--AA-8B0000?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/CLASS-SYSTEM_ARCHITECT-FF2020?style=for-the-badge&labelColor=050505"/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-FF2020?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/IDENTITY-SUDO--AA-8B0000?style=for-the-badge&labelColor=090909"/>
+<img src="https://img.shields.io/badge/REALM-SYSTEMS_ENGINEERING-5B1111?style=for-the-badge&labelColor=090909"/>
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-9E2424?style=for-the-badge&labelColor=090909"/>
 
 <br/><br/>
 
-### `I DON'T CHASE BUGS. I FIND THEIR ROOT CAUSE.`
+### ⚔️ `THE NINE REALMS OF CODE`
 
-*Born of logic. Forged in flame. Engineered for production.*
+*Born of logic. Forged in fire. Bound by no bug.*
+
+**I don't merely write code. I build systems worthy of surviving Ragnarök.**
+
+<br/>
+
+<img src="https://img.shields.io/badge/ᚠ-LOGIC-171717?style=flat-square"/>
+<img src="https://img.shields.io/badge/ᚢ-POWER-171717?style=flat-square"/>
+<img src="https://img.shields.io/badge/ᚦ-PRECISION-171717?style=flat-square"/>
+<img src="https://img.shields.io/badge/ᛟ-LEGACY-171717?style=flat-square"/>
 
 </div>
 
 ---
 
-<img align="right" width="150" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## `I. THE WARRIOR // IDENTITY`
 
-## `01 / THE OPERATOR`
+<img align="right" width="190" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```bash
-sudo-aa@system:~$ whoami
-> Full-Stack System Developer
-
-sudo-aa@system:~$ mission
-> Engineer systems that survive reality.
-
-sudo-aa@system:~$ philosophy
-> Fix the cause. Not the symptom.
-
-sudo-aa@system:~$ current_status
-> Refactoring the impossible...
+┌──[SUDO-AA@MIDGARD]─[~]
+│
+├─$ whoami
+│  Architect of Systems
+│  Full-Stack Developer
+│  Database Engineer
+│
+├─$ primary_weapon
+│  Microsoft SQL Server
+│  T-SQL / Stored Procedures
+│  C# / ASP.NET Core
+│
+├─$ allies
+│  Gemini / ChatGPT / DeepSeek
+│
+└─$ mission
+   Build. Optimize. Refactor. Prevail.
 ```
 
-I build business-critical applications, engineer database logic, optimize backend performance, and turn legacy systems into maintainable software.
+I engineer business applications across the full stack — from database architecture and complex business logic to APIs, responsive interfaces, and infrastructure.
 
-From the first SQL query to the final production deployment, I work where **application logic, data integrity, and real-world operations collide.**
+I work with legacy systems, investigate root causes, optimize data operations, and build solutions designed for real production environments.
 
-- ⚔️ Backend architecture and API engineering
-- 🗄️ Advanced SQL and database optimization
-- 🧠 Full-stack application development
-- 🛠️ Infrastructure, deployment, and troubleshooting
-- 🔥 Root-cause analysis over temporary fixes
+**My creed:** Never worship a workaround when you can defeat the root cause.
 
 <br clear="right"/>
 
 ---
 
-## `02 / WEAPONS SYSTEM`
+## `II. THE ARMORY // TECH STACK`
 
 <div align="center">
 
-### `LANGUAGES & FRAMEWORKS`
+### 🪓 THE BLADE OF DATABASES
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,nodejs,express,html,css,bootstrap&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,sqlite,mongodb&theme=dark&perline=5"/>
 
-### `DATABASE ENGINES`
+<br/>
 
-<img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,sqlite&theme=dark&perline=8"/>
+<img src="https://img.shields.io/badge/MICROSOFT_SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/T--SQL-STORED_PROCEDURES-6E1010?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MONGODB-NOSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-### `INFRASTRUCTURE & TOOLING`
+<br/>
 
-<img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,grafana,prometheus,postman,github&theme=dark&perline=8"/>
+*Where weak queries perish and data integrity reigns.*
+
+### ⚔️ THE AXE OF BACKEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark&perline=4"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_APIs-7A1717?style=for-the-badge"/>
+
+<br/>
+
+*Business logic forged for reliability.*
+
+### 🛡️ THE SHIELD OF FRONTEND ENGINEERING
+
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap&theme=dark&perline=6"/>
+
+<br/>
+
+*Interfaces that turn complex operations into usable systems.*
+
+### 🔥 THE FORGE OF INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=git,gitea,docker,linux,ubuntu,grafana,prometheus,postman,github&theme=dark&perline=9"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 
 </div>
 
-```text
-┌─────────────────────────────────────────────────┐
-│  CORE SPECIALIZATION                            │
-├─────────────────────────────────────────────────┤
-│  DATABASE     Advanced T-SQL / Dynamic SQL      │
-│  BACKEND      C# / ASP.NET Core / REST APIs     │
-│  FRONTEND     React / JavaScript / Bootstrap    │
-│  DEVOPS       IIS / Docker / Linux / Monitoring │
-│  ENGINEERING  Transactions / Performance / APIs │
-└─────────────────────────────────────────────────┘
-```
+---
+
+## `III. THE ORACLE // AI ARSENAL`
+
+<div align="center">
+
+<a href="https://aistudio.google.com/">
+<img src="https://img.shields.io/badge/GOOGLE_AI_STUDIO-GEMINI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+</a>
+
+<a href="https://chatgpt.com/">
+<img src="https://img.shields.io/badge/CHATGPT-OPENAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
+</a>
+
+<a href="https://www.deepseek.com/">
+<img src="https://img.shields.io/badge/DEEPSEEK-AI-4D6BFE?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
+*Three allies. One architect. No blind trust.*
+
+</div>
+
+| Ally | Role in the workflow |
+|---|---|
+| 🧠 Google AI Studio / Gemini | Prototyping, code generation, and application analysis |
+| 🤖 ChatGPT | Debugging, architecture, refactoring, and technical problem-solving |
+| 🔍 DeepSeek | Code exploration, algorithm reasoning, and alternative solutions |
+
+AI accelerates the forge. Engineering determines what reaches production.
 
 ---
 
-## `03 / COMBAT RECORD`
+## `IV. THE TRIALS // ENGINEERING SPECIALTIES`
 
 <details>
-<summary><b>🩸 DATABASE ENGINEERING — Eliminate Bottlenecks</b></summary>
+<summary><b>🩸 TRIAL ONE — DATABASE DOMINANCE</b></summary>
 
-- Complex stored procedures and dynamic SQL
-- Query execution and performance optimization
-- Transaction integrity and concurrency handling
-- Reporting pipelines and data transformation
-- SQL Server and PostgreSQL application integration
+- Advanced T-SQL and dynamic SQL
+- Complex stored procedures and reporting queries
+- Query performance analysis and optimization
+- Transactions, concurrency, and data integrity
+- SQL Server, PostgreSQL, MySQL, SQLite, and MongoDB
 
 </details>
 
 <details>
-<summary><b>⚡ BACKEND ENGINEERING — Build the Engine</b></summary>
+<summary><b>⚔️ TRIAL TWO — BACKEND MASTERY</b></summary>
 
-- ASP.NET Core and C# application architecture
-- RESTful API design and integration
-- Authentication, authorization, and session handling
+- C# and ASP.NET Core
+- REST API development and integration
 - Business logic and workflow automation
-- Reliable error handling and data validation
+- Authentication, authorization, and session handling
+- Error handling, validation, and maintainability
 
 </details>
 
 <details>
-<summary><b>🔒 SYSTEMS ENGINEERING — Defend Production</b></summary>
+<summary><b>🛡️ TRIAL THREE — PRODUCTION SURVIVAL</b></summary>
 
-- IIS hosting and deployment troubleshooting
-- Docker-based application infrastructure
-- Linux administration and monitoring
-- Git-based version control and collaboration
-- Backup, recovery, and production reliability
+- IIS deployment and application troubleshooting
+- Docker and Linux infrastructure
+- Logging, metrics, and monitoring
+- Root-cause analysis
+- Backup, recovery, and release reliability
 
 </details>
 
 <details>
-<summary><b>🏗️ FULL-STACK DEVELOPMENT — Own the Stack</b></summary>
+<summary><b>🔥 TRIAL FOUR — FULL-STACK CONQUEST</b></summary>
 
-- Responsive business applications
-- Frontend-to-database integration
-- AJAX-driven interfaces and APIs
-- Excel/CSV automation and file processing
-- End-to-end debugging and maintenance
+- React and JavaScript interfaces
+- Bootstrap and responsive layouts
+- AJAX and API integration
+- Excel/CSV processing and automation
+- End-to-end application development
+
+</details>
+
+<details>
+<summary><b>🕷️ TRIAL FIVE — THE HUNT FOR VULNERABILITIES</b></summary>
+
+- Secure coding practices
+- Input validation and access control
+- Application security fundamentals
+- Authorized vulnerability testing
+- Risk assessment and remediation
 
 </details>
 
 ---
 
-## `04 / LIVE TELEMETRY`
+## `V. THE SAGAS // BATTLE RECORD`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=ff3030&icon_color=ff3030&text_color=e5e5e5&ring_color=ff3030"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080808&title_color=ff3030&text_color=e5e5e5"/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=080808&color=ff3030&line=ff3030&point=ffffff&area=true&hide_border=true&custom_title=SYSTEM%20ACTIVITY"/>
+| ⚔️ Mission | 🔥 Objective |
+|---|---|
+| Database Engineering | Eliminate inefficient queries and strengthen data integrity |
+| Legacy System Refactoring | Modernize existing applications while preserving business rules |
+| Transaction Reliability | Investigate deadlocks and concurrency defects |
+| Full-Stack Development | Connect business workflows, APIs, and interfaces |
+| Infrastructure Operations | Deploy, monitor, and troubleshoot applications |
+| AI-Assisted Engineering | Accelerate development while validating generated code |
 
 </div>
 
 ---
 
-## `05 / THE PRIME DIRECTIVES`
+## `VI. THE RUNE WALL // PRIME DIRECTIVES`
+
+<div align="center">
 
 ```text
-[01]  UNDERSTAND BEFORE YOU MODIFY.
-[02]  DATA INTEGRITY IS NON-NEGOTIABLE.
-[03]  AUTOMATE WHAT SHOULD NEVER BE MANUAL.
-[04]  MEASURE PERFORMANCE. NEVER GUESS.
-[05]  SECURITY BY DESIGN. NOT AS AN AFTERTHOUGHT.
-[06]  NEVER SHIP A FIX YOU DON'T UNDERSTAND.
+ᚠ  KNOW THE SYSTEM BEFORE YOU CHANGE IT.
+
+ᚢ  DATA INTEGRITY IS SACRED.
+
+ᚦ  DESTROY ROOT CAUSES, NOT JUST SYMPTOMS.
+
+ᚨ  MEASURE PERFORMANCE. NEVER GUESS.
+
+ᚱ  AUTOMATE THE REPETITIVE.
+
+ᛟ  PROTECT PRODUCTION AS IF THE REALMS DEPEND ON IT.
 ```
 
-> *"Production doesn't care about your intentions. It cares about your execution."*
+> *"A patch may silence the monster. Only understanding can slay it."*
+
+</div>
 
 ---
 
-## `06 / ESTABLISH CONNECTION`
+## `VII. THE HALL OF LEGENDS // GITHUB TELEMETRY`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=C62828&icon_color=E53935&text_color=E8E0D8&ring_color=C62828"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080808&title_color=C62828&text_color=E8E0D8"/>
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=080808&color=E8E0D8&line=C62828&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20CHRONICLES%20OF%20CODE"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6"/>
+
+</div>
+
+---
+
+## `VIII. THE FINAL BATTLE // CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GITHUB-ENTER_THE_REPOSITORY-FF2020?style=for-the-badge&logo=github&logoColor=white&labelColor=080808"/>
+<img src="https://img.shields.io/badge/ENTER_MY_GITHUB-8B0000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
 ```text
-╔══════════════════════════════════════════╗
-║  OPERATOR     : SUDO-AA                  ║
-║  ACCESS LEVEL : SYSTEM ARCHITECT         ║
-║  CORE STATUS  : OPERATIONAL              ║
-║  NEXT MISSION : BUILD SOMETHING LEGENDARY║
-╚══════════════════════════════════════════╝
+╔══════════════════════════════════════════════╗
+║                                              ║
+║     OPERATOR    : SUDO-AA                    ║
+║     TITLE       : ARCHITECT OF SYSTEMS       ║
+║     SPECIALTY   : DATABASES & FULL STACK    ║
+║     ALLIES      : GEMINI / GPT / DEEPSEEK    ║
+║     STATUS      : READY FOR RAGNARÖK         ║
+║                                              ║
+╚══════════════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff2020,50:5c0000,100:000000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050505,40:260505,75:650909,100:050505"/>
 
-**`SUDO-AA`** — Architect of Systems. Devourer of Bugs.
+### `SUDO-AA`
 
-<sub>⚙️ Mind compiled. Reality interpreted. Systems engineered.</sub>
+**Architect of Systems. Devourer of Bugs.**
+
+*Mind compiled. Reality interpreted. Systems engineered.*
+
+<sub>⚔️ Built with logic. Driven by curiosity. Forged in production.</sub>
 
 </div>
