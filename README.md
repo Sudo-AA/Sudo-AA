@@ -112,7 +112,19 @@ I work with legacy systems, investigate root causes, optimize data operations, a
 
 ### 🔥 THE FORGE OF INFRASTRUCTURE
 
-<img src="https://skillicons.dev/icons?i=git,gitea,docker,linux,ubuntu,grafana,prometheus,postman,github&theme=dark&perline=9"/>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,docker,linux,ubuntu,github&theme=dark&perline=5"/>
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=grafana,prometheus,postman&theme=dark&perline=3"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Gitea-FB923C?style=for-the-badge&logo=gitea&logoColor=white"/>
+
+</div>
 
 <br/>
 
