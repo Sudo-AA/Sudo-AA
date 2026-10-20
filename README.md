@@ -110,7 +110,7 @@ My focus is on solving root causes, improving performance, preserving data integ
 ### ⚔️ BACKEND ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark&perline=4" alt="C#, .NET, Node.js and Express"/>
-
+<br/>
 <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST_APIs-7A1717?style=for-the-badge"/>
