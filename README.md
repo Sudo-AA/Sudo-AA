@@ -69,10 +69,20 @@ My focus is on solving root causes, improving performance, preserving data integ
 
 <table>
 <tr>
+
 <td align="center" width="20%">
-<img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="52" height="52" alt="Microsoft SQL Server"/>
-<br/><strong>SQL Server</strong>
+  <a href="https://www.microsoft.com/en-us/sql-server">
+    <img
+      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg"
+      width="52"
+      height="52"
+      alt="Microsoft SQL Server"
+    />
+  </a>
+  <br/>
+  <strong>SQL Server</strong>
 </td>
+
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL"/>
 <br/><strong>PostgreSQL</strong>
