@@ -257,14 +257,6 @@ AI accelerates the forge. Engineering determines what reaches production.
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sudo-AA&show_icons=true&hide_border=true&bg_color=080808&title_color=C62828&icon_color=E53935&text_color=E8E0D8&ring_color=C62828" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-AA&layout=compact&hide_border=true&bg_color=080808&title_color=C62828&text_color=E8E0D8" alt="Most used programming languages"/>
 
-<br/><br/>
-
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sudo-AA&bg_color=080808&color=E8E0D8&line=C62828&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20CHRONICLES%20OF%20CODE" alt="GitHub contribution activity"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sudo-AA&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub trophies"/>
-
 </div>
 
 ---
