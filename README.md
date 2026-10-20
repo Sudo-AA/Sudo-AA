@@ -1,23 +1,23 @@
 
 <!--
-  SUDO-AA | ARCHITECT OF SYSTEMS
-  Theme: Norse mythology / God of War inspired
-  Replace YOUR_GITHUB_USERNAME with your GitHub username.
+ SUDO-AA | ARCHITECT OF SYSTEMS
+ Theme: Norse mythology / God of War inspired
+ GitHub: https://github.com/Sudo-AA
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,30:260505,65:750909,100:050505&text=SUDO-AA&fontSize=82&fontColor=F2E8DC&fontAlignY=38&desc=ARCHITECT%20OF%20SYSTEMS%20%7C%20DEVOURER%20OF%20BUGS&descSize=14&descColor=D5A6A0&descAlignY=62&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050505,30:260505,65:750909,100:050505&text=SUDO-AA&fontSize=82&fontColor=F2E8DC&fontAlignY=38&desc=ARCHITECT%20OF%20SYSTEMS%20%7C%20DEVOURER%20OF%20BUGS&descSize=14&descColor=D5A6A0&descAlignY=62&animation=fadeIn" alt="SUDO-AA — Architect of Systems"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=700&color=C62828&center=true&vCenter=true&width=750&height=55&lines=AWAKEN%2C+ARCHITECT+OF+SYSTEMS;MASTER+OF+SQL+SERVER+%26+T-SQL;FORGED+IN+C%23+AND+.NET;GEMINI+%7C+CHATGPT+%7C+DEEPSEEK;LET+THE+BUGS+FACE+JUDGMENT;%3E+SYSTEMS+ONLINE._"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=18&duration=2200&pause=700&color=C62828&center=true&vCenter=true&width=750&height=55&lines=AWAKEN%2C+ARCHITECT+OF+SYSTEMS;MASTER+OF+SQL+SERVER+%26+T-SQL;FORGED+IN+C%23+AND+.NET;GEMINI+%7C+CHATGPT+%7C+DEEPSEEK;LET+THE+BUGS+FACE+JUDGMENT;%3E+SYSTEMS+ONLINE." alt="Animated developer introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/IDENTITY-SUDO--AA-8B0000?style=for-the-badge&labelColor=090909"/>
-<img src="https://img.shields.io/badge/CLASS-SYSTEM_ARCHITECT-5B1111?style=for-the-badge&labelColor=090909"/>
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-9E2424?style=for-the-badge&labelColor=090909"/>
+<img src="https://img.shields.io/badge/IDENTITY-SUDO--AA-8B0000?style=for-the-badge&labelColor=090909" alt="Identity: SUDO-AA"/>
+<img src="https://img.shields.io/badge/CLASS-SYSTEM_ARCHITECT-5B1111?style=for-the-badge&labelColor=090909" alt="Class: System Architect"/>
+<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-9E2424?style=for-the-badge&labelColor=090909" alt="Status: Operational"/>
 
 <br/><br/>
 
@@ -69,20 +69,12 @@ My focus is on solving root causes, improving performance, preserving data integ
 
 <table>
 <tr>
-
 <td align="center" width="20%">
-  <a href="https://www.microsoft.com/en-us/sql-server">
-    <img
-      src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg"
-      width="52"
-      height="52"
-      alt="Microsoft SQL Server"
-    />
-  </a>
-  <br/>
-  <strong>SQL Server</strong>
+<a href="https://www.microsoft.com/en-us/sql-server">
+<img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg" width="52" height="52" alt="Microsoft SQL Server"/>
+</a>
+<br/><strong>SQL Server</strong>
 </td>
-
 <td align="center" width="20%">
 <img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" alt="PostgreSQL"/>
 <br/><strong>PostgreSQL</strong>
@@ -102,18 +94,20 @@ My focus is on solving root causes, improving performance, preserving data integ
 </tr>
 </table>
 
-<img src="https://img.shields.io/badge/T--SQL-STORED_PROCEDURES-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/QUERY_OPTIMIZATION-DATA_INTEGRITY-5B1111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/T--SQL-STORED_PROCEDURES-8B0000?style=for-the-badge" alt="T-SQL Stored Procedures"/>
+<img src="https://img.shields.io/badge/QUERY_OPTIMIZATION-DATA_INTEGRITY-5B1111?style=for-the-badge" alt="Query Optimization and Data Integrity"/>
 
 *Where weak queries perish and data integrity reigns.*
 
 ### ⚔️ BACKEND ENGINEERING
 
 <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express&theme=dark&perline=4" alt="C#, .NET, Node.js and Express"/>
+
 <br/>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_APIs-7A1717?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+<img src="https://img.shields.io/badge/ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+<img src="https://img.shields.io/badge/REST_APIs-7A1717?style=for-the-badge" alt="REST APIs"/>
 
 ### 🛡️ FRONTEND ENGINEERING
 
@@ -125,8 +119,8 @@ My focus is on solving root causes, improving performance, preserving data integ
 
 <br/>
 
-<img src="https://img.shields.io/badge/GITEA-FB923C?style=for-the-badge&logo=gitea&logoColor=white"/>
-<img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITEA-FB923C?style=for-the-badge&logo=gitea&logoColor=white" alt="Gitea"/>
+<img src="https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Microsoft IIS"/>
 
 </div>
 
@@ -261,15 +255,15 @@ AI accelerates the forge. Engineering determines what reaches production.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=080808&title_color=C62828&icon_color=E53935&text_color=E8E0D8&ring_color=C62828" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=080808&title_color=C62828&text_color=E8E0D8" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Sudo-AA&show_icons=true&hide_border=true&bg_color=080808&title_color=C62828&icon_color=E53935&text_color=E8E0D8&ring_color=C62828" alt="GitHub statistics"/><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudo-AA&layout=compact&hide_border=true&bg_color=080808&title_color=C62828&text_color=E8E0D8" alt="Most used programming languages"/>
 
 <br/><br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=080808&color=E8E0D8&line=C62828&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20CHRONICLES%20OF%20CODE" alt="GitHub contribution activity"/>
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sudo-AA&bg_color=080808&color=E8E0D8&line=C62828&point=FFFFFF&area=true&hide_border=true&custom_title=THE%20CHRONICLES%20OF%20CODE" alt="GitHub contribution activity"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sudo-AA&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" alt="GitHub trophies"/>
 
 </div>
 
@@ -279,7 +273,7 @@ AI accelerates the forge. Engineering determines what reaches production.
 
 <div align="center">
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<a href="https://github.com/Sudo-AA">
 <img src="https://img.shields.io/badge/ENTER_MY_GITHUB-8B0000?style=for-the-badge&logo=github&logoColor=white" alt="Visit my GitHub"/>
 </a>
 
@@ -297,7 +291,7 @@ AI accelerates the forge. Engineering determines what reaches production.
 ╚══════════════════════════════════════════════╝
 ```
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050505,40:260505,75:650909,100:050505"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:050505,40:260505,75:650909,100:050505" alt="Norse-themed footer"/>
 
 ### `SUDO-AA`
 
