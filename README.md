@@ -76,17 +76,21 @@ I work with legacy systems, investigate root causes, optimize data operations, a
 
 ### 🪓 THE BLADE OF DATABASES
 
-<img src="https://skillicons.dev/icons?i=mssql,postgres,mysql,sqlite,mongodb&theme=dark&perline=5"/>
+<div align="center">
 
-<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,mongodb&theme=dark&perline=4" alt="PostgreSQL, MySQL, SQLite and MongoDB"/>
 
-<img src="https://img.shields.io/badge/MICROSOFT_SQL_SERVER-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/T--SQL-STORED_PROCEDURES-6E1010?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MONGODB-NOSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server"/>
+
+<img src="https://img.shields.io/badge/T--SQL-STORED%20PROCEDURES-6E1010?style=for-the-badge" alt="T-SQL and Stored Procedures"/>
 
 <br/>
 
 *Where weak queries perish and data integrity reigns.*
+
+</div>
 
 ### ⚔️ THE AXE OF BACKEND ENGINEERING
 
